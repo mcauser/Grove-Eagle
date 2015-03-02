@@ -7,16 +7,16 @@ Grove - 125KHz RFID Reader | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_
 Grove - 2-Coil Latching Relay | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_2-Coil_Latching_Relay) | [Buy](http://www.seeedstudio.com/depot/Grove-2Coil-Latching-Relay-p-1446.html) | COM05061P
 Grove - 3-Axis Analog Accelerometer | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Analog_Accelerometer) | [Buy](http://www.seeedstudio.com/depot/Grove-3Axis-Analog-Accelerometer-p-1086.html) | SEN02241P
 Grove - 3-Axis Digital Accelerometer(±1.5g) | v1.2b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Accelerometer%28%C2%B11.5g%29) | [Buy](http://www.seeedstudio.com/depot/Grove-3Axis-Digital-Accelerometer15g-p-765.html) | SEN21853P
-Grove - 3-Axis Digital Accelerometer(±16g) | v1.1b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Accelerometer%28%C2%B116g%29) | [Buy](http://www.seeedstudio.com/depot/Grove-3Axis-Digital-Accelerometer16g-p-1156.html) | SEN04051P
+Grove - 3-Axis Digital Accelerometer(±16g) | v1.3 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Accelerometer%28%C2%B116g%29) | [Buy](http://www.seeedstudio.com/depot/Grove-3Axis-Digital-Accelerometer16g-p-1156.html) | SEN04051P
 Grove - 3-Axis Digital Accelerometer(±400g) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Accelerometer%28%C2%B1400g%29) | [Buy](http://www.seeedstudio.com/depot/Grove-3Axis-Digital-Accelerometer400g-p-1897.html) | 811022001
 Grove - 3-Axis Digital Compass | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Compass) | [Buy](http://www.seeedstudio.com/depot/Grove-3Axis-Digital-Compass-p-759.html) | SEN12753P
 Grove - 3-Axis Digital Gyro | v1.2b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_3-Axis_Digital_Gyro) | [Buy](http://www.seeedstudio.com/depot/Grove-3Axis-Digital-Gyro-p-750.html) | SEN11763P
 Grove - 315MHz Simple RF Link Kit | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_315MHz_Simple_RF_Link_Kit) | [Buy](http://www.seeedstudio.com/depot/Grove-315MHz-Simple-RF-Link-Kit-p-1061.html) | WLS01051O
 Grove - 4-Digit Display | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_4-Digit_Display) | [Buy](http://www.seeedstudio.com/depot/Grove-4Digit-Display-p-1198.html) | LED05291P
 Grove - 433MHz Simple RF Link Kit | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_433MHz_Simple_RF_Link_Kit) | [Buy](http://www.seeedstudio.com/depot/Grove-433MHz-Simple-RF-link-kit-p-1062.html) | WLS01052O
-Grove - 6-Axis Accelerometer and Compass | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_6-Axis_Accelerometer_and_Compass_V1.0) | [Buy](http://www.seeedstudio.com/depot/Grove-6Axis-AccelerometerCompass-p-1448.html) | SEN05072P
+Grove - 6-Axis Accelerometer and Compass | v2.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_6-Axis_Accelerometer%26Compass_V2.0) | [Buy](http://www.seeedstudio.com/depot/Grove-6Axis-AccelerometerCompass-p-1448.html) | SEN05072P
 Grove - 80cm Infrared Proximity Sensor | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_80cm_Infrared_Proximity_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-80cm-Infrared-Proximity-Sensor-p-788.html) | SEN39046P
-Grove - Air Quality Sensor | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Air_Quality_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Air-quality-sensor-p-1065.html) | SEN01111P
+Grove - Air Quality Sensor | v1.3 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Air_Quality_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Air-quality-sensor-p-1065.html) | SEN01111P
 Grove - Alcohol Sensor | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Alcohol_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Alcohol-Sensor-p-764.html) | SEN21723P
 Grove - Barometer (High-Accuracy) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Barometer_%28High-Accuracy%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Barometer-HighAccuracy-p-1865.html) | 811027001
 Grove - Barometer Sensor (BMP180) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor_%28BMP180%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Barometer-SensorBMP180-p-1840.html) | 811024001
@@ -27,6 +27,7 @@ Grove - Base Shield v1.3 | v1.3 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-
 Grove - Base Shield v2 | v2.0 | [Wiki](http://www.seeedstudio.com/wiki/Base_shield_v2) | [Buy](http://www.seeedstudio.com/depot/base-shield-v13-p-1378.html) | SLD01099P
 Grove - Bee Socket | v0.9a | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Bee_Socket) | [Buy](http://www.seeedstudio.com/depot/Grove-Bee-Socket-p-1449.html) | COM05081P
 Grove - BLE | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_BLE_v1) | [Buy](http://www.seeedstudio.com/depot/Grove-BLE-p-1929.html) | 811007001
+Grove - BLE (Dual Model) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_BLE_%28dual_model%29_v1.0) | - | -
 Grove - BlinkM | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_BlinkM) | [Buy](http://www.seeedstudio.com/depot/Grove-BlinkM-p-826.html) | LED42149P
 Grove - Blue LED | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED) | [Buy](http://www.seeedstudio.com/depot/Grove-Blue-LED-p-1139.html) | COM04051P
 Grove - Button | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Button) | [Buy](http://www.seeedstudio.com/depot/Grove-Button-p-766.html) | COM22242P
@@ -45,6 +46,7 @@ Grove - Dust Sensor | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Dust_Se
 Grove - Ear-clip Heart Rate Sensor | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Ear-clip_Heart_Rate_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Earclip-Heart-Rate-Sensor-p-1116.html) | MED03212P
 Grove - Electricity Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Electricity_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Electricity-Sensor-p-777.html) | SEN23931P
 Grove - Electromagnet | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Electromagnet) | [Buy](http://www.seeedstudio.com/depot/Grove-Electromagnet-p-1820.html) | 811014001
+Grove - EL Driver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_EL_Driver) | [Buy](http://www.seeedstudio.com/depot/GroveEL-Driver-p-2269.html) | 105020005
 Grove - EMG Detector | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_EMG_Detector) | [Buy](http://www.seeedstudio.com/depot/Grove-EMG-Detector-p-1737.html) | 811006001
 Grove - Encoder | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Encoder) | [Buy](http://www.seeedstudio.com/depot/Grove-Encoder-p-1352.html) | COM01112P
 Grove - Fingerprint Sensor | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Fingerprint_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Fingerprint-Sensor-p-1424.html) | SEN04172P
@@ -69,6 +71,7 @@ Grove - I2C Hub | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_I2C_Hub)
 Grove - I2C Motor Driver | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_I2C_Motor_Driver) | [Buy](http://www.seeedstudio.com/depot/Grove-I2C-Motor-Driver-p-907.html) | ROB72212P
 Grove - I2C Touch Sensor | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_I2C_Touch_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-I2C-Touch-Sensor-p-840.html) | SEN51153P
 Grove - IMU 9DOF | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_IMU_9DOF) | [Buy](http://www.seeedstudio.com/depot/Grove-IMU-9DOF-p-1728.html) | 811003001
+Grove - IMU 10DOF | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_IMU_10DOF) | - | -
 Grove - Infrared Emitter | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Infrared_Emitter) | [Buy](http://www.seeedstudio.com/depot/Grove-Infrared-Emitter-p-993.html) | WLS12148P
 Grove - Infrared Receiver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Infrared_Receiver) | [Buy](http://www.seeedstudio.com/depot/Grove-Infrared-Receiver-p-994.html) | WLS12136P
 Grove - Infrared Reflective Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Infrared_Reflective_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Infrared-Reflective-Sensor-p-1230.html) | WLS07061P
@@ -132,7 +135,7 @@ Grove - Temperature and Humidity Sensor | v0.9b | [Wiki](http://www.seeedstudio.
 Grove - Temperature Sensor | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Temperature_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Temperature-Sensor-p-774.html) | SEN23292P
 Grove - Tempture & Humidity Sensor (High-Accuracy & Mini) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Tempture%26Humidity_Sensor_%28High-Accuracy_%26Mini%29_v1.0) | [Buy](http://www.seeedstudio.com/depot/Grove-TemperatureHumidity-Sensor-HighAccuracy-Mini-p-1921.html) | 101020074
 Grove - Thumb Joystick | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Thumb_Joystick) | [Buy](http://www.seeedstudio.com/depot/Grove-Thumb-Joystick-p-935.html) | COM90133P
-Grove - Tilt Switch | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Tilt_Switch) | [Buy](http://www.seeedstudio.com/depot/Grove-Tilt-Switch-p-771.html) | COM22863P
+Grove - Tilt Switch | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Tilt_Switch) | [Buy](http://www.seeedstudio.com/depot/Grove-Tilt-Switch-p-771.html) | COM22863P
 Grove - Touch Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Touch-Sensor-p-747.html) | SEN11303P
 Grove - Ultrasonic Ranger | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Ultrasonic_Ranger) | [Buy](http://www.seeedstudio.com/depot/BackorderGrove-Ultrasonic-Ranger-p-960.html) | SEN10737P
 Grove - UV Sensor | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_UV_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-UV-Sensor-p-1540.html) | SEN00700P
