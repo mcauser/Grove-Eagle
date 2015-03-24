@@ -49,6 +49,7 @@ Grove - Electromagnet | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_El
 Grove - EL Driver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_EL_Driver) | [Buy](http://www.seeedstudio.com/depot/GroveEL-Driver-p-2269.html) | 105020005
 Grove - EMG Detector | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_EMG_Detector) | [Buy](http://www.seeedstudio.com/depot/Grove-EMG-Detector-p-1737.html) | 811006001
 Grove - Encoder | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Encoder) | [Buy](http://www.seeedstudio.com/depot/Grove-Encoder-p-1352.html) | COM01112P
+Grove - Finger-clip Heart Rate Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Finger-clip_Heart_Rate_Sensor) | - | -
 Grove - Fingerprint Sensor | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Fingerprint_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Fingerprint-Sensor-p-1424.html) | SEN04172P
 Grove - Flame Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Flame_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Flame-Sensor-p-1450.html) | SEN05082P
 Grove - FM Receiver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_FM_Receiver) | [Buy](http://www.seeedstudio.com/depot/Grove-FM-Receiver-p-1841.html) | 811021001
