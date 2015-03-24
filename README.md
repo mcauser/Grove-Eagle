@@ -17,7 +17,7 @@ Grove - 433MHz Simple RF Link Kit | - | [Wiki](http://www.seeedstudio.com/wiki/G
 Grove - 6-Axis Accelerometer and Compass | v2.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_6-Axis_Accelerometer%26Compass_V2.0) | [Buy](http://www.seeedstudio.com/depot/Grove-6Axis-AccelerometerCompass-p-1448.html) | SEN05072P
 Grove - 80cm Infrared Proximity Sensor | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_80cm_Infrared_Proximity_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-80cm-Infrared-Proximity-Sensor-p-788.html) | SEN39046P
 Grove - Air Quality Sensor | v1.3 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Air_Quality_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Air-quality-sensor-p-1065.html) | SEN01111P
-Grove - Alcohol Sensor | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Alcohol_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Alcohol-Sensor-p-764.html) | SEN21723P
+Grove - Alcohol Sensor | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Alcohol_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Alcohol-Sensor-p-764.html) | SEN21723P
 Grove - Barometer (High-Accuracy) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Barometer_%28High-Accuracy%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Barometer-HighAccuracy-p-1865.html) | 811027001
 Grove - Barometer Sensor (BMP180) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor_%28BMP180%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Barometer-SensorBMP180-p-1840.html) | 811024001
 Grove - Barometer Sensor | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Barometer-Sensor-p-1199.html) | SEN05291P
