@@ -101,7 +101,7 @@ Grove - NFC Tag | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_NFC_Tag)
 Grove - NFC | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_%EF%BC%8D_NFC) | [Buy](http://www.seeedstudio.com/depot/Grove-NFC-p-1804.html) | 811011001
 Grove - NunChuck | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_NunChuck) | [Buy](http://www.seeedstudio.com/depot/Grove-Nunchuck-p-1474.html) | HOK05171P
 Grove - OLED Display 128x64 | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_OLED_Display_128*64) | [Buy](http://www.seeedstudio.com/depot/Grove-OLED-Display-112-p-781.html) | OLE35046P
-Grove - OLED Display 96x96 | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_OLED_Display_96*96) | [Buy](http://www.seeedstudio.com/depot/Grove-OLED-Display-096-p-824.html) | OLE42178P
+Grove - OLED Display 96x96 | v2.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_OLED_Display_96*96) | [Buy](http://www.seeedstudio.com/depot/Grove-OLED-Display-096-p-824.html) | OLE42178P
 Grove - PH Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_PH_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-PH-Sensor-p-1564.html) | SEN00600P
 Grove - Piezo Vibration Sensor | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Piezo_Vibration_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Piezo-Vibration-Sensor-p-1411.html) | SEN04031P
 Grove - PIR Motion Sensor | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_PIR_Motion_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-PIR-Motion-Sensor-p-802.html) | SEN32357P
