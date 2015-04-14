@@ -39,6 +39,7 @@ Grove - Circular LED | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Ci
 Grove - CO2 Sensor | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_CO2_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-CO2-Sensor-p-1863.html) | 101020067
 Grove - Collision Sensor | v2.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Collision_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Collision-Sensor-p-1132.html) | SEN03281P
 Grove - Differential Amplifier | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Differential_Amplifier) | [Buy](http://www.seeedstudio.com/depot/Grove-Differential-Amplifier-p-1284.html) | COM10221P
+Grove - Digital Infrared Temperature Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Digital_Infrared_Temperature_Sensor) | - | -
 Grove - Digital Light Sensor | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Digital_Light_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Digital-Light-Sensor-p-1281.html) | SEN10171P
 Grove - DMX512 | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_DMX512) | [Buy](http://www.seeedstudio.com/depot/Grove-DMX512-p-1447.html) | ACC05071P
 Grove - Dry-Reed Relay | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Dry-Reed_Relay) | [Buy](http://www.seeedstudio.com/depot/Grove-DryReed-Relay-p-1412.html) | COM04071P
