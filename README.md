@@ -96,6 +96,7 @@ Grove - Mini Camera | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Mini
 Grove - Mini Fan | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Mini_Fan) | [Buy](http://www.seeedstudio.com/depot/Grove-Mini-Fan-p-1819.html) | 811005001
 Grove - Moisture Sensor | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Moisture_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Moisture-Sensor-p-955.html) | SEN92355P
 Grove - MOSFET | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_MOSFET) | [Buy](http://www.seeedstudio.com/depot/Grove-MOSFET-p-1594.html) | ACT00200P
+Grove - Multichannel Gas Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Multichannel_Gas_Sensor) | - | -
 Grove - Multi Color Flash LED (5mm) | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED) | [Buy](http://www.seeedstudio.com/depot/Grove-Multi-Color-Flash-LED-5mm-p-1141.html) | COM04052P
 Grove - NFC Tag | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_NFC_Tag) | [Buy](http://www.seeedstudio.com/depot/Grove-NFC-Tag-p-1866.html) | 101020070
 Grove - NFC | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_%EF%BC%8D_NFC) | [Buy](http://www.seeedstudio.com/depot/Grove-NFC-p-1804.html) | 811011001
