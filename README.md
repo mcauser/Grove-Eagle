@@ -54,7 +54,7 @@ Grove - Finger-clip Heart Rate Sensor | v1.0 | [Wiki](http://www.seeedstudio.com
 Grove - Fingerprint Sensor | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Fingerprint_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Fingerprint-Sensor-p-1424.html) | SEN04172P
 Grove - Flame Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Flame_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Flame-Sensor-p-1450.html) | SEN05082P
 Grove - FM Receiver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_FM_Receiver) | [Buy](http://www.seeedstudio.com/depot/Grove-FM-Receiver-p-1841.html) | 811021001
-Grove - Gas Sensor(MQ2) | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor%28MQ2%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ2-p-937.html) | SEN90512P
+Grove - Gas Sensor(MQ2) | v1.4 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor%28MQ2%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ2-p-937.html) | SEN90512P
 Grove - Gas Sensor(MQ3) | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ3-p-1418.html) | SEN04091P
 Grove - Gas Sensor(MQ5) | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor%28MQ5%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ5-p-938.html) | SEN90502P
 Grove - Gas Sensor(MQ9) | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ9-p-1419.html) | SEN04092P
