@@ -57,7 +57,7 @@ Grove - FM Receiver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_FM_R
 Grove - Gas Sensor(MQ2) | v1.4 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor%28MQ2%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ2-p-937.html) | SEN90512P
 Grove - Gas Sensor(MQ3) | v1.4 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ3-p-1418.html) | SEN04091P
 Grove - Gas Sensor(MQ5) | v1.4 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor%28MQ5%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ5-p-938.html) | SEN90502P
-Grove - Gas Sensor(MQ9) | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ9-p-1419.html) | SEN04092P
+Grove - Gas Sensor(MQ9) | v1.4 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorMQ9-p-1419.html) | SEN04092P
 Grove - Gas Sensor(O2) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor%28O%E2%82%82%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Gas-SensorO2-p-1541.html) | SEN00500P
 Grove - Geiger Counter | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Geiger_Counter) | [Buy](http://www.seeedstudio.com/depot/Grove-Geiger-Counter-p-867.html) | SEN63024P
 Grove - Gesture | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Gesture_v1.0) | - | -
