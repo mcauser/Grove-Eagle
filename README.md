@@ -22,6 +22,7 @@ Grove - Barometer (High-Accuracy) | v1.0 | [Wiki](http://www.seeedstudio.com/wik
 Grove - Barometer Sensor (BMP180) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor_%28BMP180%29) | [Buy](http://www.seeedstudio.com/depot/Grove-Barometer-SensorBMP180-p-1840.html) | 811024001
 Grove - Barometer Sensor | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Barometer_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Barometer-Sensor-p-1199.html) | SEN05291P
 Grove - Base Shield for IOIO-OTG | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Base_Shield_for_IOIO-OTG) | [Buy](http://www.seeedstudio.com/depot/Grove-Base-Shield-for-IOIOOTG-p-1613.html) | SLD00100P
+Grove - Base Shield for NodeMCU | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_Base_Shield_for_NodeMCU_V1.0) | [Buy](http://www.seeedstudio.com/depot/Grove-Base-Shield-for-NodeMCU-p-2513.html) | 105020008
 Grove - Base Shield v1.2 | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Base_Shield_v1.2) | [Buy](http://www.seeedstudio.com/depot/Grove-Base-Shield-p-754.html) | SLD12148P
 Grove - Base Shield v1.3 | v1.3 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Base_Shield_V1.3) | [Buy](http://www.seeedstudio.com/depot/base-shield-v13-p-1378.html) | SLD01099P
 Grove - Base Shield v2 | v2.0 | [Wiki](http://www.seeedstudio.com/wiki/Base_shield_v2) | [Buy](http://www.seeedstudio.com/depot/base-shield-v13-p-1378.html) | SLD01099P
