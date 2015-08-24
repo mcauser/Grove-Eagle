@@ -81,6 +81,7 @@ Grove - Infrared Receiver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_
 Grove - Infrared Reflective Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Infrared_Reflective_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Infrared-Reflective-Sensor-p-1230.html) | WLS07061P
 Grove - Infrared temperature sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Infrared_temperature_sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Infrared-Temperature-Sensor-p-1058.html) | SEN01041P
 Grove - IR Distance Interrupter | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_IR_Distance_Interrupt) | [Buy](http://www.seeedstudio.com/depot/Grove-IR-Distance-Interrupter-p-1278.html) | SEN09281P
+Grove - Joint | v2.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Joint_v2.0) | - | -
 Grove - LCD RGB Backlight | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LCD_RGB_Backlight) | [Buy](http://www.seeedstudio.com/depot/Grove-LCD-RGB-Backlight-p-1643.html) | 811004001
 Grove - LED Bar | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED_Bar) | [Buy](http://www.seeedstudio.com/depot/Grove-LED-Bar-p-1178.html) | LED05031P
 Grove - LED Socket Kit | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED_Socket_Kit) | [Buy](http://www.seeedstudio.com/depot/Grove-LED-p-767.html) | COM22341P
