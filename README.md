@@ -85,7 +85,7 @@ Grove - IR Distance Interrupter | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/
 Grove - Joint | v2.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Joint_v2.0) | - | -
 Grove - LCD RGB Backlight | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LCD_RGB_Backlight) | [Buy](http://www.seeedstudio.com/depot/Grove-LCD-RGB-Backlight-p-1643.html) | 811004001
 Grove - LED Bar | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED_Bar) | [Buy](http://www.seeedstudio.com/depot/Grove-LED-Bar-p-1178.html) | LED05031P
-Grove - LED Socket Kit | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED_Socket_Kit) | [Buy](http://www.seeedstudio.com/depot/Grove-LED-p-767.html) | COM22341P
+Grove - LED Socket Kit | v1.3 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED_Socket_Kit) | [Buy](http://www.seeedstudio.com/depot/Grove-LED-p-767.html) | COM22341P
 Grove - LED String Light | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED_String_Light) | [Buy](http://www.seeedstudio.com/depot/Grove-LED-String-Light-p-1821.html) | 811019001
 Grove - LED Strip Driver | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED_Strip_Driver) | [Buy](http://www.seeedstudio.com/depot/Grove-LED-Strip-Driver-p-1197.html) | LED05241P
 Grove - LED | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED) | [Buy](http://www.seeedstudio.com/depot/Grove-LED-p-767.html) | COM22341P
