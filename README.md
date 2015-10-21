@@ -99,6 +99,7 @@ Grove - Mega Shield | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Mega
 Grove - Mini Camera | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Mini_Camera) | [Buy](http://www.seeedstudio.com/depot/Grove-Mini-Camera-p-1578.html) | SEN00300P
 Grove - Mini Fan | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Mini_Fan) | [Buy](http://www.seeedstudio.com/depot/Grove-Mini-Fan-p-1819.html) | 811005001
 Grove - Mini I2C Motor Driver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Mini_I2C_Motor_Driver_v1.0) | [Buy](http://www.seeedstudio.com/depot/Grove-I2C-Mini-Motor-Driver-p-2508.html) | 105020010
+Grove - Mini Track ball | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Mini_Track_Ball) | - | -
 Grove - Moisture Sensor | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Moisture_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Moisture-Sensor-p-955.html) | SEN92355P
 Grove - MOSFET | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_MOSFET) | [Buy](http://www.seeedstudio.com/depot/Grove-MOSFET-p-1594.html) | ACT00200P
 Grove - Multichannel Gas Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Multichannel_Gas_Sensor) | - | -
