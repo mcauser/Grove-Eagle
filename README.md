@@ -75,7 +75,7 @@ Grove - I2C Hub | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_I2C_Hub)
 Grove - I2C Motor Driver | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_I2C_Motor_Driver) | [Buy](http://www.seeedstudio.com/depot/Grove-I2C-Motor-Driver-p-907.html) | ROB72212P
 Grove - I2C Touch Sensor | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_I2C_Touch_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-I2C-Touch-Sensor-p-840.html) | SEN51153P
 Grove - IMU 9DOF | v2.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_IMU_9DOF) | [Buy](http://www.seeedstudio.com/depot/Grove-IMU-9DOF-p-1728.html) | 811003001
-Grove - IMU 10DOF | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_IMU_10DOF) | - | -
+Grove - IMU 10DOF | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_IMU_10DOF) | http://www.seeedstudio.com/depot/Grove-IMU-10DOF-p-2386.html | 101020079
 Grove - Infrared Emitter | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Infrared_Emitter) | [Buy](http://www.seeedstudio.com/depot/Grove-Infrared-Emitter-p-993.html) | WLS12148P
 Grove - Infrared Receiver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Infrared_Receiver) | [Buy](http://www.seeedstudio.com/depot/Grove-Infrared-Receiver-p-994.html) | WLS12136P
 Grove - Infrared Reflective Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Infrared_Reflective_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Infrared-Reflective-Sensor-p-1230.html) | WLS07061P
