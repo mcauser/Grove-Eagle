@@ -137,6 +137,7 @@ Grove - Sound Recorder | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_S
 Grove - Sound Sensor | v1.3 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Sound_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Sound-Sensor-p-752.html) | SEN12945P
 Grove - SPDT Relay(30A) | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_SPDT_Relay%2830A%29) | [Buy](http://www.seeedstudio.com/depot/Grove-SPDT-Relay30A-p-1473.html) | ACT05161P
 Grove - Speaker | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Speaker) | [Buy](http://www.seeedstudio.com/depot/Grove-Speaker-p-1445.html) | COM05051P
+Grove - Sunlight Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Sunlight_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Sunlight-Sensor-p-2530.html) | 101020089
 Grove - Switch(P) | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Switch%28P%29) | [Buy](http://www.seeedstudio.com/depot/Grove-SwitchP-p-1252.html) | COM08213P
 Grove - Techbox Tricks | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Techbox_Tricks) | - | -
 Grove - Temperature & Humidity Sensor | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Temperature_and_Humidity_Sensor) | [Buy](http://www.seeedstudio.com/depot/grove-temphumi-sensor-p-745.html) | SEN11301P
