@@ -66,6 +66,7 @@ Grove - GPS | v1.1 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_GPS) | [Buy]
 Grove - Green LED | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED) | [Buy](http://www.seeedstudio.com/depot/Grove-Green-LED-p-1144.html) | COM04053P
 Grove - GSR Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_GSR_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-GSR-p-1614.html) | SEN01400P
 Grove - Hall Sensor | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Hall_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Hall-Sensor-p-965.html) | SEN14034P
+Grove - Haptic Motor | v0.9 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Haptic_Motor) | [Buy](http://www.seeedstudio.com/depot/Grove%C2%A0%C2%A0Haptic%C2%A0Motor-p-2546.html) | 105020011
 Grove - HCHO Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_HCHO_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-HCHO-Sensor-p-1593.html) | SEN01500P
 Grove - High Temperature Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_High_Temperature_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-High-Temperature-Sensor-p-1810.html) | 811010001
 Grove - I2C ADC | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_I2C_ADC) | [Buy](http://www.seeedstudio.com/depot/Grove-I2C-ADC-p-1580.html) | INT00100P
