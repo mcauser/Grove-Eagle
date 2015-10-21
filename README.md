@@ -154,6 +154,7 @@ Grove - UV Sensor | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_UV_Se
 Grove - Variable Color LED | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Variable_Color_LED) | [Buy](http://www.seeedstudio.com/depot/Grove-Variable-Color-LED-p-852.html) | COM53120P
 Grove - Vibration Motor | v1.2a | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Vibration_Motor) | [Buy](http://www.seeedstudio.com/depot/Grove-Vibration-Motor-p-839.html) | ROB51043P
 Grove - Voltage Divider | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Voltage_Divider) | [Buy](http://www.seeedstudio.com/depot/Grove-Voltage-Divider-p-1472.html) | POW05161P
+Grove - Water Atomization | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Water_Atomization) | [Buy](http://www.seeedstudio.com/depot/Grove-Water-Atomization-v10-p-2542.html) | 101020090
 Grove - Water Sensor | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Water_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Water-Sensor-p-748.html) | SEN11304P
 Grove - White LED | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED) | [Buy](http://www.seeedstudio.com/depot/Grove-White-LED-p-1140.html) | COM04056P
 Grove - XBee Carrier | v0.9b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_XBee_Carrier) | [Buy](http://www.seeedstudio.com/depot/Grove-XBee-Carrier-p-905.html) | SLD71385P
