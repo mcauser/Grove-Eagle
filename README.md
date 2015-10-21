@@ -116,7 +116,7 @@ Grove - Protoshield | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Prot
 Grove - PS/2 Adapter | v0.91b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_PS/2_Adapter) | [Buy](http://www.seeedstudio.com/depot/Grove-PS2-Adapter-p-966.html) | COM14048P
 Grove - Purple LED (3mm) | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED) | [Buy](http://www.seeedstudio.com/depot/Grove-Purple-LED-3mm-p-1143.html) | COM04055P
 Grove - Q Touch Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Q_Touch_Sensor) | [Buy](http://www.seeedstudio.com/depot/GroveQ-Touch-Sensor-p-1854.html) | 811026001
-Grove - Recorder | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Recorder) | [Buy](http://www.seeedstudio.com/depot/Grove-Recorder-p-1825.html) | 811020001
+Grove - Recorder | v2.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Recorder_v2.0) | - | -
 Grove - Red LED | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED) | [Buy](http://www.seeedstudio.com/depot/Grove-Red-LED-p-1142.html) | COM04054P
 Grove - Relay | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Relay) | [Buy](http://www.seeedstudio.com/depot/Grove-Relay-p-769.html) | COM22639P
 Grove - RJ45 Adapter | v1.0b | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_RJ45_Adapter) | [Buy](http://www.seeedstudio.com/depot/Grove-RJ45-Adapter-p-1426.html) | COM04182P
