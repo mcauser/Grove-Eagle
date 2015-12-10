@@ -102,6 +102,7 @@ Grove - Mini I2C Motor Driver | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Gr
 Grove - Mini Track ball | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Mini_Track_Ball) | - | -
 Grove - Moisture Sensor | v1.2 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Moisture_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Moisture-Sensor-p-955.html) | SEN92355P
 Grove - MOSFET | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_MOSFET) | [Buy](http://www.seeedstudio.com/depot/Grove-MOSFET-p-1594.html) | ACT00200P
+Grove - Mouse Encoder | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Mouser_Encoder) | - | -
 Grove - Multichannel Gas Sensor | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_Multichannel_Gas_Sensor) | [Buy](http://www.seeedstudio.com/depot/Grove-Multichannel-Gas-Sensor-p-2502.html) | 101020088
 Grove - Multi Color Flash LED (5mm) | - | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_LED) | [Buy](http://www.seeedstudio.com/depot/Grove-Multi-Color-Flash-LED-5mm-p-1141.html) | COM04052P
 Grove - NFC Tag | v1.0 | [Wiki](http://www.seeedstudio.com/wiki/Grove_-_NFC_Tag) | [Buy](http://www.seeedstudio.com/depot/Grove-NFC-Tag-p-1866.html) | 101020070
